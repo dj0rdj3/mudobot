@@ -1,0 +1,12 @@
+{
+    "token": "yourtoken",
+    "ownerID": "bot developer's id",
+    "prefix": ".",
+    "suggestions": "suggestions channel id",
+    "welcomeChannel": "welcome messages channel id",
+    "modID": "moderator role id",
+    "ows": "one word story channel id",
+    "server": "guild id, bot made for single guild",
+    "dbhost": "redis db ip",
+    "dbport": "redis db port"
+}
